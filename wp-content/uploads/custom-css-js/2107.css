@@ -1,0 +1,250 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.roi-form .row{
+	display:flex;
+	margin-top:30px;
+}
+span#currencySymbol2 {
+    margin-left: 20px;
+}
+#investmentData{
+	color:#565A61;
+}
+#investmentCampaign{
+	color:#565A61;
+}
+
+.d-flex {
+    display: flex
+;
+}
+.location-1, .location-2, .location-3, .location-4, .location-5, .location-6, .location-7, .location-8 {
+    width: 47% !important;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    margin: 10px !important;
+    border-radius: 10px;
+    height: 550px;
+    overflow: scroll;
+    padding: 20px !important;
+}
+.no {
+    counter-reset: list-number;
+}
+.col-lg-4.secondstep {
+ width: 33%;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    margin: 10px !important;
+    border-radius: 10px;
+    height: auto;
+    /* overflow: scroll; */
+    padding: 20px !important;
+    margin: 20px !important;
+    background: white;
+}
+.row
+{
+	display:flex
+}
+label.alertbi-class {
+    display: flex
+;
+    align-items: center;
+}
+.wpcf7-list-item {
+        display: -webkit-box;
+    margin: 0 0 0 0em !important;
+}
+.containerstep-3-contact
+{
+	    width: 97%;
+    margin: auto;
+    background: white;
+    padding: 29px;
+    border-radius: 30px;
+}
+label.header-contact {
+    font-size: 32px;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    color: black;
+	text-align:center;
+}
+label.header-label-contact
+{
+	display: inline-block;
+    font-weight: 500;
+    line-height: inherit;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 100%;
+    display: block;
+    font-weight: 700;
+    float: none;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+input.wpcf7-form-control.wpcf7-submit.has-spinner {
+    margin-top: 15px;
+    background-color: #E62615;
+    color: white;
+    border-radius: 10rem 10rem 10rem 10rem;
+    width: 100%;
+}
+button.uacf7-next {
+    background-color: transparent;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(180deg, #E62615 0%, #E62615 100%);
+    border-radius: 10rem 10rem 10rem 10rem;
+}
+button.uacf7-prev {
+    background-color: transparent;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(180deg, #E62615 0%, #E62615 100%);
+    border-radius: 10rem 10rem 10rem 10rem;
+}
+span.wpcf7-list-item-label {
+    font-weight: bold;
+}
+.progressbar-style-1.steps-form .steps-row .steps-step .btn-circle {
+    font-size: 19px;
+    line-height: 24px;
+    text-decoration: none;
+    outline: 0;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    padding: 13px 10px;
+    border-radius: 0;
+}
+.steps-form .steps-row .steps-step .btn-circle.uacf7-btn-active {
+    color: #fff;
+    background-color: #e62615 !important;
+    outline: 0;
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    transform: scale(1.1);
+}
+.checkbox-checked {
+    display: flex;
+    align-items: center;
+}
+.uacf7-wrapper-default label {
+    display: flex;
+    font-weight: 500;
+    line-height: inherit;
+    margin-bottom: 6px;
+	margin-top:0px;
+    width: 100%;
+	font-weight:bold;
+}
+@media (max-width: 768px) 
+{
+	.row
+	{
+		 display: inline;
+	}
+	.col-lg-4.secondstep
+	{
+    width: 92%;
+	}
+}
+.checkbox-checked-link-url {
+    display: flex
+;
+    align-items: center;
+}
+.checkbox-checked-link-url a {
+    color: #e62615;
+}
+span.wpcf7-form-control-wrap.recaptcha {
+    margin-top: 23px;
+}
+
+
+
+.elementor-element.elementor-element-09ad16c.e-flex.e-con-boxed.e-con.e-child {
+    background: url(http://alertb2b.com/wp-content/uploads/2025/02/products-lines-bg.webp), linear-gradient(180deg, #000514, #010d39) !important;
+    background-blend-mode: normal;
+    background-repeat: no-repeat !important;
+    background-position: 0 0, 50% !important;
+}
+.home-page-contact-get-a-count .wpforms-container .wpforms-field-label {
+    display: block;
+    font-weight: 700;
+    float: none;
+    word-break: break-word;
+    word-wrap: break-word;
+    color: white;
+}
+.home-page-contact-get-a-count .wpforms-container .wpforms-field-label-inline {
+    display: inline;
+    vertical-align: baseline;
+    font-weight: 400;
+    word-break: break-word;
+    color: white !important;
+}
+
+form#wpforms-form-1303 {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.banner-how-it-works {
+    background: url(https://alertbi.fableadtechnolabs.com/wp-content/uploads/2025/02/hero-rebranding-left-aligned-graphic.2f587e33.svg), linear-gradient(40deg, #ff1b15 -10.73%, #00072D 6.83%, #1a2137 33.67%, #000514 82.95%), #00072D !important;
+    background-blend-mode: normal;
+    background-repeat: no-repeat !important;
+    background-position: 0 100%, 50% !important;
+}
+.shadow.icheck-danger.d-flex {
+    padding: 10px 10px;
+    background: #e51c24;
+    margin: 18px 0px;
+    border-radius: 3px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 0.45px;
+}
+img.selecticon2.jobimg {
+    height: 47px !important;
+}
+.d-flex.shadow {
+    box-shadow: 0px 0px 21px -17px;
+    margin-top: 14px;
+    padding: 10px;
+    background: white;
+}
+label.contertdisplay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input[type=email], input[type=number], input[type=password], input[type=reset], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea {
+    color: #ffffff;
+    padding: .75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e5e5e5 !important;
+    background: #ffffff;
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2slinear;
+    border-radius: 25px !important;
+}
+textarea.wpcf7-form-control.wpcf7-textarea {
+    margin-top: 20px;
+}
+.setcontent {
+    width: 50%;   
+	margin: 0px 10px 0px 0px;
+
+}
+button#wpforms-submit-3140 {
+    background-color: #E62615;
+    color: white;
+    border-radius: 10rem 10rem 10rem 10rem;
+    width: 100%;
+}</style>
+<!-- end Simple Custom CSS and JS -->

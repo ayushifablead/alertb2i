@@ -1,0 +1,556 @@
+[05-Feb-2025 15:13:32 UTC] Automatic updates starting...
+[05-Feb-2025 15:13:32 UTC] Automatic updates complete.
+[06-Feb-2025 03:18:07 UTC] Automatic updates starting...
+[06-Feb-2025 03:18:07 UTC] Automatic updates complete.
+[06-Feb-2025 15:26:38 UTC] Automatic updates starting...
+[06-Feb-2025 15:26:39 UTC] Automatic updates complete.
+[07-Feb-2025 03:11:46 UTC] Automatic updates starting...
+[07-Feb-2025 03:11:46 UTC] Automatic updates complete.
+[07-Feb-2025 15:44:41 UTC] Automatic updates starting...
+[07-Feb-2025 15:44:41 UTC] Automatic updates complete.
+[08-Feb-2025 05:21:43 UTC] Automatic updates starting...
+[08-Feb-2025 05:21:44 UTC] Automatic updates complete.
+[08-Feb-2025 15:18:36 UTC] Automatic updates starting...
+[08-Feb-2025 15:18:36 UTC] Automatic updates complete.
+[09-Feb-2025 05:08:04 UTC] Automatic updates starting...
+[09-Feb-2025 05:08:05 UTC] Automatic updates complete.
+[09-Feb-2025 15:30:40 UTC] Automatic updates starting...
+[09-Feb-2025 15:30:40 UTC]   Automatic plugin updates starting...
+[09-Feb-2025 15:30:40 UTC]     Upgrading plugin 'elementskit-lite'...
+[09-Feb-2025 15:30:41 UTC]     Plugin 'elementskit-lite' has been upgraded.
+[09-Feb-2025 15:30:41 UTC]     'elementskit-lite/elementskit-lite.php' is inactive and will not be checked for fatal errors.
+[09-Feb-2025 15:30:41 UTC]   Automatic plugin updates complete.
+[09-Feb-2025 15:30:42 UTC] Automatic updates complete.
+[10-Feb-2025 03:21:09 UTC] Automatic updates starting...
+[10-Feb-2025 03:21:09 UTC] Automatic updates complete.
+[10-Feb-2025 14:34:51 UTC] Cron reschedule event error for hook: duplicator_email_summary_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"duplicator_weekly_cron","args":[],"interval":604800}
+[10-Feb-2025 15:30:50 UTC] Automatic updates starting...
+[10-Feb-2025 15:30:50 UTC]   Automatic plugin updates starting...
+[10-Feb-2025 15:30:50 UTC]     Upgrading plugin 'elementskit-lite'...
+[10-Feb-2025 15:30:51 UTC]     Plugin 'elementskit-lite' has been upgraded.
+[10-Feb-2025 15:30:53 UTC]     The update for 'elementskit-lite' has no fatal errors.
+[10-Feb-2025 15:30:53 UTC]     Upgrading plugin 'astra-sites'...
+[10-Feb-2025 15:30:54 UTC]     Plugin 'astra-sites' has been upgraded.
+[10-Feb-2025 15:30:56 UTC]     The update for 'astra-sites' has no fatal errors.
+[10-Feb-2025 15:30:56 UTC]   Automatic plugin updates complete.
+[10-Feb-2025 15:30:56 UTC] Automatic updates complete.
+[11-Feb-2025 03:11:46 UTC] Automatic updates starting...
+[11-Feb-2025 03:11:46 UTC] Automatic updates complete.
+[11-Feb-2025 15:15:20 UTC] Automatic updates starting...
+[11-Feb-2025 15:15:21 UTC]   Automatic theme updates starting...
+[11-Feb-2025 15:15:21 UTC]     Upgrading theme 'astra'...
+[11-Feb-2025 15:15:22 UTC]     Theme 'astra' has been upgraded.
+[11-Feb-2025 15:15:22 UTC]   Automatic theme updates complete.
+[11-Feb-2025 15:15:22 UTC] Automatic updates complete.
+[12-Feb-2025 03:43:02 UTC] Automatic updates starting...
+[12-Feb-2025 03:43:03 UTC]   Automatic theme updates starting...
+[12-Feb-2025 03:43:03 UTC]     Upgrading theme 'twentytwentyfive'...
+[12-Feb-2025 03:43:04 UTC]     Theme 'twentytwentyfive' has been upgraded.
+[12-Feb-2025 03:43:04 UTC]   Automatic theme updates complete.
+[12-Feb-2025 03:43:04 UTC] Automatic updates complete.
+[12-Feb-2025 15:13:20 UTC] Automatic updates starting...
+[12-Feb-2025 15:13:20 UTC]   Automatic plugin updates starting...
+[12-Feb-2025 15:13:20 UTC]     Upgrading plugin 'elementskit-lite'...
+[12-Feb-2025 15:13:21 UTC]     Plugin 'elementskit-lite' has been upgraded.
+[12-Feb-2025 15:13:23 UTC]     The update for 'elementskit-lite' has no fatal errors.
+[12-Feb-2025 15:13:23 UTC]   Automatic plugin updates complete.
+[12-Feb-2025 15:13:23 UTC] Automatic updates complete.
+[12-Feb-2025 21:42:27 UTC] Cron reschedule event error for hook: duplicator_usage_tracking_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"duplicator_weekly_cron","args":[],"interval":604800}
+[13-Feb-2025 03:36:18 UTC] Automatic updates starting...
+[13-Feb-2025 03:36:18 UTC] Automatic updates complete.
+[13-Feb-2025 07:51:13 UTC] Cron reschedule event error for hook: uacf7_promo__schudle, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_day","args":[],"interval":86400}
+[13-Feb-2025 15:45:50 UTC] Automatic updates starting...
+[13-Feb-2025 15:45:51 UTC]   Automatic plugin updates starting...
+[13-Feb-2025 15:45:51 UTC]     Upgrading plugin 'elementor'...
+[13-Feb-2025 15:45:52 UTC]     Plugin 'elementor' has been upgraded.
+[13-Feb-2025 15:45:54 UTC]     The update for 'elementor' has no fatal errors.
+[13-Feb-2025 15:45:54 UTC]   Automatic plugin updates complete.
+[13-Feb-2025 15:45:55 UTC] Automatic updates complete.
+[14-Feb-2025 03:24:20 UTC] Automatic updates starting...
+[14-Feb-2025 03:24:20 UTC] Automatic updates complete.
+[14-Feb-2025 15:18:49 UTC] Automatic updates starting...
+[14-Feb-2025 15:18:49 UTC] Automatic updates complete.
+[15-Feb-2025 03:28:22 UTC] Automatic updates starting...
+[15-Feb-2025 03:28:22 UTC] Automatic updates complete.
+[15-Feb-2025 15:13:09 UTC] Automatic updates starting...
+[15-Feb-2025 15:13:09 UTC]   Automatic plugin updates starting...
+[15-Feb-2025 15:13:09 UTC]   Automatic plugin updates complete.
+[15-Feb-2025 15:13:09 UTC] Automatic updates complete.
+[16-Feb-2025 03:39:52 UTC] Automatic updates starting...
+[16-Feb-2025 03:39:52 UTC]   Automatic plugin updates starting...
+[16-Feb-2025 03:39:52 UTC]   Automatic plugin updates complete.
+[16-Feb-2025 03:39:52 UTC] Automatic updates complete.
+[16-Feb-2025 15:19:00 UTC] Automatic updates starting...
+[16-Feb-2025 15:19:00 UTC]   Automatic plugin updates starting...
+[16-Feb-2025 15:19:00 UTC]     Upgrading plugin 'elementor'...
+[16-Feb-2025 15:19:03 UTC]     Plugin 'elementor' has been upgraded.
+[16-Feb-2025 15:19:05 UTC]     The update for 'elementor' has no fatal errors.
+[16-Feb-2025 15:19:05 UTC]     Upgrading plugin 'elementskit-lite'...
+[16-Feb-2025 15:19:06 UTC]     Plugin 'elementskit-lite' has been upgraded.
+[16-Feb-2025 15:19:08 UTC]     The update for 'elementskit-lite' has no fatal errors.
+[16-Feb-2025 15:19:08 UTC]   Automatic plugin updates complete.
+[16-Feb-2025 15:19:09 UTC] Automatic updates complete.
+[17-Feb-2025 03:12:21 UTC] Automatic updates starting...
+[17-Feb-2025 03:12:22 UTC]   Automatic plugin updates starting...
+[17-Feb-2025 03:12:22 UTC]   Automatic plugin updates complete.
+[17-Feb-2025 03:12:22 UTC] Automatic updates complete.
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:23 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:26 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 257
+[17-Feb-2025 11:13:41 UTC] PHP Notice:  Undefined index: highlighted in /var/www/alertb2b.com/wp-content/plugins/wp-table-builder/inc/admin/element-classes/tablerenderer.php on line 171
+[17-Feb-2025 15:21:31 UTC] Automatic updates starting...
+[17-Feb-2025 15:21:31 UTC]   Automatic plugin updates starting...
+[17-Feb-2025 15:21:31 UTC]     Upgrading plugin 'ultimate-addons-for-contact-form-7'...
+[17-Feb-2025 15:21:33 UTC]     Plugin 'ultimate-addons-for-contact-form-7' has been upgraded.
+[17-Feb-2025 15:21:35 UTC]     The update for 'ultimate-addons-for-contact-form-7' has no fatal errors.
+[17-Feb-2025 15:21:35 UTC]   Automatic plugin updates complete.
+[17-Feb-2025 15:21:35 UTC] Automatic updates complete.
+[18-Feb-2025 03:13:13 UTC] Automatic updates starting...
+[18-Feb-2025 03:13:13 UTC]   Automatic plugin updates starting...
+[18-Feb-2025 03:13:13 UTC]     Upgrading plugin 'custom-css-js'...
+[18-Feb-2025 03:13:14 UTC]     Plugin 'custom-css-js' has been upgraded.
+[18-Feb-2025 03:13:16 UTC]     The update for 'custom-css-js' has no fatal errors.
+[18-Feb-2025 03:13:16 UTC]   Automatic plugin updates complete.
+[18-Feb-2025 03:13:16 UTC] Automatic updates complete.
+[18-Feb-2025 15:22:49 UTC] Automatic updates starting...
+[18-Feb-2025 15:22:49 UTC]   Automatic plugin updates starting...
+[18-Feb-2025 15:22:49 UTC]     Upgrading plugin 'contact-form-7'...
+[18-Feb-2025 15:22:50 UTC]     Plugin 'contact-form-7' has been upgraded.
+[18-Feb-2025 15:22:52 UTC]     The update for 'contact-form-7' has no fatal errors.
+[18-Feb-2025 15:22:52 UTC]     Upgrading plugin 'elementor'...
+[18-Feb-2025 15:22:54 UTC]     Plugin 'elementor' has been upgraded.
+[18-Feb-2025 15:22:56 UTC]     The update for 'elementor' has no fatal errors.
+[18-Feb-2025 15:22:56 UTC]   Automatic plugin updates complete.
+[18-Feb-2025 15:22:56 UTC] Automatic updates complete.
+[19-Feb-2025 03:20:01 UTC] Automatic updates starting...
+[19-Feb-2025 03:20:02 UTC]   Automatic plugin updates starting...
+[19-Feb-2025 03:20:02 UTC]   Automatic plugin updates complete.
+[19-Feb-2025 03:20:02 UTC] Automatic updates complete.
+[19-Feb-2025 15:24:39 UTC] Automatic updates starting...
+[19-Feb-2025 15:24:39 UTC]   Automatic plugin updates starting...
+[19-Feb-2025 15:24:39 UTC]     Upgrading plugin 'wp-table-builder'...
+[19-Feb-2025 15:24:41 UTC]     Plugin 'wp-table-builder' has been upgraded.
+[19-Feb-2025 15:24:41 UTC]     'wp-table-builder/wp-table-builder.php' is inactive and will not be checked for fatal errors.
+[19-Feb-2025 15:24:41 UTC]   Automatic plugin updates complete.
+[19-Feb-2025 15:24:41 UTC] Automatic updates complete.
+[20-Feb-2025 03:24:14 UTC] Automatic updates starting...
+[20-Feb-2025 03:24:15 UTC] Automatic updates complete.
+[20-Feb-2025 15:11:55 UTC] Automatic updates starting...
+[20-Feb-2025 15:11:56 UTC] Automatic updates complete.
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=872695 in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=872687 in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=872669 in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=872672 in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_set_charset(): Error executing query in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 922
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=872671 in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[20-Feb-2025 22:57:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/alertb2b.com/wp-includes/class-wpdb.php on line 1982
+[21-Feb-2025 03:24:41 UTC] Automatic updates starting...
+[21-Feb-2025 03:24:42 UTC] Automatic updates complete.
+[21-Feb-2025 15:13:03 UTC] Automatic updates starting...
+[21-Feb-2025 15:13:03 UTC]   Automatic plugin updates starting...
+[21-Feb-2025 15:13:03 UTC]     Upgrading plugin 'astra-sites'...
+[21-Feb-2025 15:13:04 UTC]     Plugin 'astra-sites' has been upgraded.
+[21-Feb-2025 15:13:06 UTC]     The update for 'astra-sites' has no fatal errors.
+[21-Feb-2025 15:13:06 UTC]   Automatic plugin updates complete.
+[21-Feb-2025 15:13:07 UTC] Automatic updates complete.
+[22-Feb-2025 03:23:40 UTC] Automatic updates starting...
+[22-Feb-2025 03:23:41 UTC] Automatic updates complete.
+[22-Feb-2025 15:17:48 UTC] Automatic updates starting...
+[22-Feb-2025 15:17:48 UTC] Automatic updates complete.
+[23-Feb-2025 03:15:26 UTC] Automatic updates starting...
+[23-Feb-2025 03:15:26 UTC] Automatic updates complete.
+[23-Feb-2025 15:14:01 UTC] Automatic updates starting...
+[23-Feb-2025 15:14:02 UTC] Automatic updates complete.
+[24-Feb-2025 03:11:59 UTC] Automatic updates starting...
+[24-Feb-2025 03:12:00 UTC] Automatic updates complete.
+[24-Feb-2025 15:11:50 UTC] Automatic updates starting...
+[24-Feb-2025 15:11:51 UTC]   Automatic plugin updates starting...
+[24-Feb-2025 15:11:51 UTC]     Upgrading plugin 'astra-sites'...
+[24-Feb-2025 15:11:52 UTC]     Plugin 'astra-sites' has been upgraded.
+[24-Feb-2025 15:11:54 UTC]     The update for 'astra-sites' has no fatal errors.
+[24-Feb-2025 15:11:54 UTC]     Upgrading plugin 'ultimate-addons-for-contact-form-7'...
+[24-Feb-2025 15:11:55 UTC]     Plugin 'ultimate-addons-for-contact-form-7' has been upgraded.
+[24-Feb-2025 15:11:57 UTC]     The update for 'ultimate-addons-for-contact-form-7' has no fatal errors.
+[24-Feb-2025 15:11:57 UTC]   Automatic plugin updates complete.
+[24-Feb-2025 15:11:57 UTC] Automatic updates complete.
+[25-Feb-2025 03:13:40 UTC] Automatic updates starting...
+[25-Feb-2025 03:13:40 UTC] Automatic updates complete.
+[25-Feb-2025 15:18:58 UTC] Automatic updates starting...
+[25-Feb-2025 15:18:59 UTC] Automatic updates complete.
+[26-Feb-2025 03:19:46 UTC] Automatic updates starting...
+[26-Feb-2025 03:19:47 UTC] Automatic updates complete.
